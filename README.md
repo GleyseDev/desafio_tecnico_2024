@@ -1,2 +1,4 @@
-# desafio_tecnico_2024
+## Desafio_tecnico_2024
  Desafio técnico - Vertical Logística
+
+# Ajustes inicial
